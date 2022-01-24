@@ -15,6 +15,6 @@ An experimental repository for making mybinder work with ines/juniper
             print('hello world!')
         </pre>
         <script src="juniper.min.js"></script>
-       <script>new Juniper({ repo: 'ines/juniper' })</script>
+       <script>new Juniper({ repo: '10-zin/binder-playground' })</script>
     </body>
 </html>
